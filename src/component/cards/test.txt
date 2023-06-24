@@ -1,0 +1,114 @@
+[{
+    "id": 53,
+    "date": "2023-06-09T22:44:50",
+    "date_gmt": "2023-06-09T21:44:50",
+    "guid": { "rendered": "https:\/\/api.bushrakalaji.com\/?post_type=card&#038;p=53" },
+    "modified": "2023-06-10T21:38:38",
+    "modified_gmt": "2023-06-10T20:38:38",
+    "slug": "ecommy",
+    "status": "publish",
+    "type": "card",
+    "link": "https:\/\/api.bushrakalaji.com\/card\/ecommy\/",
+    "title": { "rendered": "eCommy" },
+    "content": { "rendered": "", "protected": false },
+    "featured_media": 0,
+    "template": "",
+    "acf":
+    {
+        "id": 2,
+        "title": "eCommy",
+        "image": 47,
+        "description":
+            "The eCom Store is a user-friendly online shopping platform featuring a homepage with product listings, a convenient cart system, and a dedicated contact page. It offers a seamless browsing experience, easy management of selected items, and a reliable channel for customer communication.",
+        "js_": true,
+        "bootstrap": true, "react": true, "css": false, "scss": false,
+        "github": "https:\/\/github.com\/bushrakalaji\/js-framework-ca",
+        "live": "https:\/\/ecom-my.netlify.app\/"
+    },
+    "_links":
+    {
+        "self": [{
+            "href": "https:\/\/api.bushrakalaji.com\/wp-json\/wp\/v2\/card\/53"
+        }], "collection": [{
+            "href": "https:\/\/api.bushrakalaji.com\/wp-json\/wp\/v2\/card"
+        }], "about": [{
+            "href": "https:\/\/api.bushrakalaji.com\/wp-json\/wp\/v2\/types\/card"
+        }], "wp:attachment": [{
+            "href": "https:\/\/api.bushrakalaji.com\/wp-json\/wp\/v2\/media?parent=53"
+        }], "curies": [{
+            "name": "wp", "href": "https:\/\/api.w.org\/{rel}", "templated": true
+        }]
+    }
+}, {
+    "id": 52, "date": "2023-06-09T22:37:14", "date_gmt": "2023-06-09T21:37:14", "guid": {
+        "rendered": "https:\/\/api.bushrakalaji.com\/?post_type=card&#038;p=52"
+    }, "modified": "2023-06-10T21:39:19", "modified_gmt": "2023-06-10T20:39:19",
+    "slug": "artpart",
+    "status": "publish", "type": "card",
+    "link": "https:\/\/api.bushrakalaji.com\/card\/artpart\/",
+    "title": { "rendered": "ArtPart" },
+    "content": { "rendered": "", "protected": false },
+    "featured_media": 0, "template": "",
+    "acf": {
+        "id": 3, "title": "ArtPart",
+        "image": 48,
+        "description": "An auction site is looking to launch a website where users can add items to be bid on and bid on items other users have put up for auction.\r\nWhen new user joins the website, they are given 1000 credits to use on the site. They can get credits by selling items and use credit by buying items. Non-registered users can search through the listings, but only registered users can make bids on listings.\r\n\r\n",
+        "js_": true, "bootstrap": true, "react": false, "css": false, "scss": true,
+        "github": "https:\/\/github.com\/bushrakalaji\/semester-project2",
+        "live": "https:\/\/artpart.netlify.app\/"
+    },
+    "_links": {
+        "self": [{
+            "href": "https:\/\/api.bushrakalaji.com\/wp-json\/wp\/v2\/card\/52"
+        }], "collection": [{
+            "href": "https:\/\/api.bushrakalaji.com\/wp-json\/wp\/v2\/card"
+        }], "about": [{
+            "href": "https:\/\/api.bushrakalaji.com\/wp-json\/wp\/v2\/types\/card"
+        }], "wp:attachment": [{
+            "href": "https:\/\/api.bushrakalaji.com\/wp-json\/wp\/v2\/media?parent=52"
+        }], "curies": [{
+            "name": "wp", "href": "https:\/\/api.w.org\/{rel}", "templated": true
+        }]
+    }
+    }, {
+    "id": 43, "date": "2023-06-09T22:13:45", "date_gmt": "2023-06-09T21:13:45",
+    "guid": {
+        "rendered": "https:\/\/api.bushrakalaji.com\/?post_type=card&#038;p=43"
+    },
+    "modified": "2023-06-10T21:40:21", "modified_gmt": "2023-06-10T20:40:21",
+    "slug": "holidaze",
+    "status": "publish",
+    "type": "card",
+    "link": "https:\/\/api.bushrakalaji.com\/card\/holidaze\/",
+    "title": { "rendered": "Holidaze" },
+    "content": { "rendered": "", "protected": false },
+    "featured_media": 0, "template": "",
+    "acf": {
+        "id": 1,
+        "title": "Holidaze",
+        "image": 49,
+        "description": "Holidaze is a modern and user-friendly accommodation booking application that provides a seamless experience for both customers and administrators. With its intuitive interface and robust features, Holidaze aims to simplify the process of booking holidays at various venues while offering efficient management tools for venue owners and administrators.",
+        "js_": true,
+        "bootstrap": true,
+        "react": true,
+        "css": false,
+        "scss": true,
+        "github": "https:\/\/github.com\/bushrakalaji\/exam-project2",
+        "live": "https:\/\/holidazea.netlify.app\/"
+    }, "_links": {
+        "self": [{
+            "href": "https:\/\/api.bushrakalaji.com\/wp-json\/wp\/v2\/card\/43"
+        }], "collection": [{
+            "href": "https:\/\/api.bushrakalaji.com\/wp-json\/wp\/v2\/card"
+        }], "about": [{
+            "href": "https:\/\/api.bushrakalaji.com\/wp-json\/wp\/v2\/types\/card"
+        }], "wp:attachment": [{
+            "href": "https:\/\/api.bushrakalaji.com\/wp-json\/wp\/v2\/media?parent=43"
+        }], "curies": [{
+            "name": "wp",
+            "href": "https:\/\/api.w.org\/{rel}",
+            "templated": true
+        }]
+    }
+    }]
+

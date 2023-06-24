@@ -1,0 +1,57 @@
+@import "./style.scss";
+
+body {
+  background-color: #F8C7CC;
+  background-image: linear-gradient(
+    62deg,
+    rgb(214, 143, 214) 65%,
+    rgb(38, 38, 38) 40%  
+  );
+  font-family: "input-mono", monospace !important;
+}
+
+.myshadow {
+  filter: drop-shadow(0 0 10px #24103e);
+}
+
+.cntctShadow {
+  filter: drop-shadow(0 0 10px #F8C7CC);
+}
+
+.hello {
+  font-family: "blithe";
+}
+
+.myHeight {
+  height: 95vh;
+}
+
+.about {
+  background-color: #8ec5fc;
+  background-image: linear-gradient(62deg, #F8C7CC 0%, #e0c3fc 100%);
+}
+
+.arrow,
+.linkHover:hover {
+  color: #e0c3fc;
+}
+
+.glass {
+  background: rgba(36, 16, 62, 0.56);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.1px);
+  -webkit-backdrop-filter: blur(6.1px);
+  border: 1px solid rgba(36, 16, 62, 0.3);
+}
+.glass2 {
+  background: rgba(0, 0, 0, 0.56);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.1px);
+  -webkit-backdrop-filter: blur(6.1px);
+  border: 1px solid rgba(36, 16, 62, 0.3);
+}
+.navbar-toggler {
+  color: $primary !important;
+}
